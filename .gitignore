@@ -1,0 +1,9 @@
+settings.py
+.idea/
+__pycache__/
+venv/
+*.log
+parser_foto.py
+image/
+*.patch
+
